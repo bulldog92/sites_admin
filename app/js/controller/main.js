@@ -1,3 +1,3 @@
 app.controller('main', ['$scope', function ($scope) {
-	$scope.work = 'work';
+	$scope.work = 'angular is work';
 }]);
